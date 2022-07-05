@@ -94,6 +94,7 @@ const carneExtra= (value, cantBurger, pedido) =>{
     }
     
     
+    //-- este ultimo paso lo hice asi porq no sabia como incorporar las HOF a mi simulador--//
     
     nuevoPedido()
     busqueda = prompt("Realizar una busqueda por el precio")
